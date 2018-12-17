@@ -1,5 +1,5 @@
 # ParseGO
-Parse Gene Ontology into tab delimited text file
+Parse Gene Ontology into tab delimited text file.
 
 First download the OBO file from http://geneontology.org/page/download-ontology. Next run the following command.
 
