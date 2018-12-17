@@ -1,7 +1,7 @@
 # ParseGO
 Parse Gene Ontology into tab delimited text file
 
-Download the OBO file from http://geneontology.org/page/download-ontology
+First download the OBO file from http://geneontology.org/page/download-ontology. Next run the following command.
 
 <pre>
 python ParseGO.py go.obo output_file
