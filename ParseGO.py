@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import sys
-#import db as db
 import argparse as argparse
 
 parser = argparse.ArgumentParser(description='Parse go relatin OBO file and create go relation and go gene database files',add_help=False)
